@@ -26,7 +26,7 @@
 ### :man_technologist: Обо мне: 
 Аналитик данных 📈 с опытом из области экономики и предпринимательства. 
 
-###  🛠️ Languages and Tools :  
+###  🛠️ Языки и инструменты:  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
