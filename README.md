@@ -59,10 +59,6 @@
 |Проект 4 E-commerce  (__[github](ссылка)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
 |Проекты SQL  (__[github](ссылка)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
 
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxAndAporia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **ParadoxAndAporia/ParadoxAndAporia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
