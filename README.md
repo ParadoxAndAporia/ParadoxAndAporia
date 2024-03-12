@@ -29,37 +29,28 @@
 ###  🛠️ Languages and Tools :  
 
 <div>
+
+   
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="apacheairflow" **alt="apacheairflow" width="40" height="40"/>
-
-
-  [apacheairflow](https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg)
-  https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="apacheairflow"  alt="apacheairflow" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg)" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg)" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg)" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="keras" alt="keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;  
   
 </div>
 
-
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
-![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
-![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
-![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
 
 Мои проекты:  
@@ -91,4 +82,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
+https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg
+
 -->
