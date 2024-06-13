@@ -65,6 +65,9 @@
 |Проект 3 Прогноз продаж в интернет-магазине [github](https://github.com/ParadoxAndAporia/Games-shop) | Определение факторов, влияющих на успешность игр.|pandas, Numpy, matplotlib, seaborn, scipy.stats|
 |Проект 4 Предсказание коэффициента восстановления золота из золотосодержащей руды [github](https://github.com/ParadoxAndAporia/Gold-recovery) | Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.|pandas, Numpy, sklearn, seaborn, matplotlib |
 |Проект 5 Прогнозирование цен на автомобили [github](https://github.com/ParadoxAndAporia/car_price_prediction) | На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили |pandas, numpy, matplotlib, seaborn, catboost, sklearn, RandomForestRegressor, GridSearchCV, OrdinalEncoder, lightgbm, LGBMRegressor |
+|Проект 6 Рекомендация тарифов мобильной связи [github](https://github.com/ParadoxAndAporia/cell_plan_recommendation/tree/main) | Оператор «Мегалайн» хочет построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра». В моем распоряжении данные о поведении клиентов. Нужно построить модель для задачи классификации, которая выберет подходящий тариф |pandas, numpy, matplotlib, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier |
+
+
 
 
 |Проект 2 Анализ продуктовых метрик  (__[github](ссылка)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
