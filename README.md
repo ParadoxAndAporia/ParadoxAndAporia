@@ -58,13 +58,13 @@
    
 ### Мои проекты:  
 
-
-
-
-
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1 Исследование надёжности заёмщиков  [github](https://github.com/ParadoxAndAporia/Data-preparation-for-credit-scoring) |Определение влияния семейного положения на надежность заемщика.|pandas|
+|Проект 2 Исследование объявлений о продаже квартир  [github](https://github.com/ParadoxAndAporia/Real-estate) | Определение рыночной стоимости объектов недвижимости в зависимости от различных факторов.|pandas, Numpy, matplotlib|
+|Проект 3 Прогноз продаж в интернет-магазине [github](https://github.com/ParadoxAndAporia/Games-shop) | Определение факторов, влияющих на успешность игр.|pandas, Numpy, matplotlib, seaborn, scipy.stats|
+|Проект 4 Предсказание коэффициента восстановления золота из золотосодержащей руды [github](https://github.com/ParadoxAndAporia/Gold-recovery) | Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.|pandas, Numpy, sklearn, seaborn, matplotlib |
+|Проект 5 Прогнозирование цен на автомобили [github](https://github.com/ParadoxAndAporia/car_price_prediction) | На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили |pandas, numpy, matplotlib, seaborn, catboost, sklearn, RandomForestRegressor, GridSearchCV, OrdinalEncoder, lightgbm, LGBMRegressor |
 
 
 |Проект 2 Анализ продуктовых метрик  (__[github](ссылка)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
