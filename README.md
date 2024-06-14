@@ -61,11 +61,17 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1 Исследование надёжности заёмщиков  [github](https://github.com/ParadoxAndAporia/Data-preparation-for-credit-scoring) |Определение влияния семейного положения на надежность заемщика.|pandas|
-|Проект 2 Исследование объявлений о продаже квартир  [github](https://github.com/ParadoxAndAporia/Real-estate) | Определение рыночной стоимости объектов недвижимости в зависимости от различных факторов.|pandas, Numpy, matplotlib|
-|Проект 3 Прогноз продаж в интернет-магазине [github](https://github.com/ParadoxAndAporia/Games-shop) | Определение факторов, влияющих на успешность игр.|pandas, Numpy, matplotlib, seaborn, scipy.stats|
-|Проект 4 Предсказание коэффициента восстановления золота из золотосодержащей руды [github](https://github.com/ParadoxAndAporia/Gold-recovery) | Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.|pandas, Numpy, sklearn, seaborn, matplotlib |
-|Проект 5 Прогнозирование цен на автомобили [github](https://github.com/ParadoxAndAporia/car_price_prediction) | На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили |pandas, numpy, matplotlib, seaborn, catboost, sklearn, RandomForestRegressor, GridSearchCV, OrdinalEncoder, lightgbm, LGBMRegressor |
-|Проект 6 Рекомендация тарифов мобильной связи [github](https://github.com/ParadoxAndAporia/cell_plan_recommendation/tree/main) | Оператор «Мегалайн» хочет построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра». В моем распоряжении данные о поведении клиентов. Нужно построить модель для задачи классификации, которая выберет подходящий тариф |pandas, numpy, matplotlib, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier |
+|Проект 2 Определение перспективного тарифа для телеком компании  [github](https://github.com/ParadoxAndAporia/cphone_tariff_analysis) |Клиентам предлагают два тарифных плана. Мне предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет |pandas, seaborn, matplotlib, scipy|
+|Проект 3 Исследование объявлений о продаже квартир  [github](https://github.com/ParadoxAndAporia/Real-estate) | Определение рыночной стоимости объектов недвижимости в зависимости от различных факторов.|pandas, Numpy, matplotlib|
+|Проект 4 Прогноз продаж в интернет-магазине [github](https://github.com/ParadoxAndAporia/Games-shop) | Определение факторов, влияющих на успешность игр.|pandas, Numpy, matplotlib, seaborn, scipy.stats|
+|Проект 5 Предсказание коэффициента восстановления золота из золотосодержащей руды [github](https://github.com/ParadoxAndAporia/Gold-recovery) | Разработка модели машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.|pandas, Numpy, sklearn, seaborn, matplotlib |
+|Проект 6 Прогнозирование цен на автомобили [github](https://github.com/ParadoxAndAporia/car_price_prediction) | На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили |pandas, numpy, matplotlib, seaborn, catboost, sklearn, RandomForestRegressor, GridSearchCV, OrdinalEncoder, lightgbm, LGBMRegressor |
+|Проект 7 Рекомендация тарифов мобильной связи [github](https://github.com/ParadoxAndAporia/cell_plan_recommendation/tree/main) | Оператор «Мегалайн» хочет построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра». В моем распоряжении данные о поведении клиентов. Нужно построить модель для задачи классификации, которая выберет подходящий тариф |pandas, numpy, matplotlib, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier |
+|Проект 8 Прогнозирование оттока клиентов банка [github](https://github.com/ParadoxAndAporia/bank_client_Churn_prediction) | Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком |pandas, numpy, matplotlib, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier |
+|Проект 9 Классификация токсичных комментариев [github](https://github.com/ParadoxAndAporia/toxic_comments) | Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В моем распоряжении набор данных с разметкой о токсичности правок |pandas, numpy, matplotlib, seaborn, 
+transformers, pytorch, nltk, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier, CatBoostClassifier, SGDClassifier |
+
+
 
 
 
@@ -74,6 +80,9 @@
 |Проект 3 RFM-анализ  (__[github](ссылка)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
 |Проект 4 E-commerce  (__[github](ссылка)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
 |Проекты SQL  (__[github](ссылка)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
+
+
+
  
 <!--
 **ParadoxAndAporia/ParadoxAndAporia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
