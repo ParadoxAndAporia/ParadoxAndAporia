@@ -77,7 +77,7 @@
 
 
 
-
+<!--
 
 
 |Проект 2 Анализ продуктовых метрик  (__[github](ссылка)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
@@ -88,7 +88,7 @@
 
 
  
-<!--
+
 **ParadoxAndAporia/ParadoxAndAporia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
