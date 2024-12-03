@@ -8,8 +8,6 @@
   <a href="mailto:emil.rd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://stepik.org/users/50898399/profile">
-    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik Badge"/>
   </a> <br>
     <img src="https://komarev.com/ghpvc/?username=ParadoxAndAporia&style=flat-square" alt=""/>
 
