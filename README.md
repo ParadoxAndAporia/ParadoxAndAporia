@@ -48,10 +48,6 @@
 ### Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/ЯП%20-%20сертификат%20DS.pdf)
  - Karpov Courses: Аналитик Данных [RUS](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/Карпов%20-%20сертификат%20DA.pdf)
- - Русская школа программирования: Big Data и Data Science: перейди на новый уровень [RUS](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/Big%20Data%20DS.pdf)
- - Data Science с Глебом Михайловым [Rus](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/Data%20Science.pdf)
- - Bioinformatics Institute: Введение в Linux [Rus](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/Введение%20в%20Linux%20-%20sert.pdf)
- - Bioinformatics Institure: Программирование на Python [Rus](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/Программирование%20на%20Python%20-%20sert.pdf)
  - Хакатон GlowByte [Rus](https://github.com/ParadoxAndAporia/ParadoxAndAporia/blob/main/GlowByte%20Hackaton%20-%20sert.pdf)
    
 ### Мои проекты:  
